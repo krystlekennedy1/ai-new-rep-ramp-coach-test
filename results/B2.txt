@@ -1,0 +1,49 @@
+PROMPT B, RUN 2 (copied from chat)
+
+Weekly Ramp Coaching Brief (data as of Nov 7, 2026)
+
+1. Headline
+Two reps have little or no activity logged after 14 or more days in seat, so a quick check on setup and access comes before any skills coaching. Several reps are converting calls to meetings at under half the benchmark rate, and two are ahead of pace on first close and worth recognizing.
+
+[Scoring note: the headline says two reps are ahead of pace, but the table lists three.]
+
+2. Top 3 actions
+Helen Brooks, Opal Fischer and Dani Vasquez: Opal is at 40 days in seat with no milestones and 0 calls logged. Dani is at 14 days with no first call logged. Check for onboarding blockers first (tools, lead routing, territory assignment), then set a first-call target for this week.
+Dana Whitfield, Carlos Rasmussen: Carlos has 10 meetings from 180 calls and no first opp at 50 days. Review a few recent calls together and practice the meeting ask and next-step language.
+Omar Castillo, Rosa Tran: Rosa is at 99 days with first close still open (p75 is 91). Walk through her open opps to find the next step that moves one toward close. Omar also has two reps on conversion flags (Keiko Everett and Yusuf Gallagher), so a short call-review session for all three could work.
+
+3. Flagged reps
+REP-3001 | Dani Vasquez | Helen Brooks | SMB | BEHIND_PACE | 14 days in seat; first call blank, p75 = 7
+REP-3007 | Uri Jacobs | Dana Whitfield | SMB | BEHIND_PACE | 20 days; first meeting blank, p75 = 14
+REP-3010 | Yusuf Okafor | Victor Lang | SMB | BEHIND_PACE | 29 days; first opp blank, p75 = 24
+REP-3014 | Carlos Rasmussen | Dana Whitfield | SMB | BEHIND_PACE | 50 days; first opp blank, p75 = 24; first close blank, p75 = 48
+REP-3024 | Rosa Tran | Omar Castillo | Commercial | BEHIND_PACE | 99 days; first close blank, p75 = 91
+REP-3034 | Opal Bennett | Dana Whitfield | Commercial | BEHIND_PACE | 24 days; first meeting blank, p75 = 20
+REP-3037 | Opal Fischer | Helen Brooks | Commercial | BEHIND_PACE | 40 days; first call blank (p75 = 8), first meeting blank (p75 = 20), first opp blank (p75 = 38)
+REP-3014 | Carlos Rasmussen | Dana Whitfield | SMB | LOW_CONVERSION | 50 days; 10/180 = 0.056 vs half of 0.20 = 0.100
+REP-3020 | Keiko Everett | Omar Castillo | SMB | LOW_CONVERSION | 60 days; 15/220 = 0.068 vs 0.100
+REP-3028 | Yusuf Gallagher | Omar Castillo | Commercial | LOW_CONVERSION | 70 days; 16/160 = 0.100 vs half of 0.29 = 0.145
+REP-3043 | Xenia Everett | Helen Brooks | SMB | LOW_CONVERSION | 55 days; 18/260 = 0.069 vs 0.100
+REP-3003 | Opal Gallagher | Dana Whitfield | SMB | AHEAD_OF_PACE | First close at 31 days vs p25 = 35
+REP-3004 | Hector Everett | Helen Brooks | SMB | AHEAD_OF_PACE | First close at 35 days vs p25 = 35
+REP-3036 | Gia Fischer | Victor Lang | Commercial | AHEAD_OF_PACE | First close at 63 days vs p25 = 68
+REP-3013 | Alex Dalton | Helen Brooks | SMB | DATA_ORDER | First meeting at day 5 is earlier than first call at day 7
+REP-3027 | Maya Hayes | Omar Castillo | Commercial | DATA_ORDER | First close at day 77 is earlier than first opp at day 82
+Please recognize Opal Gallagher, Hector Everett and Gia Fischer for strong first-close timing.
+
+4. Needs a human look
+REP-3016 Xenia Vasquez (Omar Castillo, SMB, tier C): 19 days in seat, first meeting blank, p75 = 14. This would meet BEHIND_PACE, but territory tier C may explain the gap.
+REP-3022 Luca Gallagher (Dana Whitfield, Commercial, tier C): 26 days, first meeting blank, p75 = 20. Same tier C exception.
+REP-3023 Pedro Morales (Omar Castillo): Segment is blank, so no benchmark can be chosen. The rep is at 40 days with first close blank.
+REP-3035 Xenia Hayes (Victor Lang, SMB): 60 days, 20/200 = 0.100, exactly half the 0.20 benchmark. The rule requires "less than half", so this is not flagged, but it sits right on the line.
+REP-3017 Xenia Whitaker (Omar Castillo, Commercial): 80 days, 3 meetings from 90 calls (0.033). Calls are under the 100-call threshold, so LOW_CONVERSION does not apply, but the rate is low.
+REP-3012 Pedro Jacobs (Helen Brooks) and REP-3018 Luca Iverson (Dana Whitfield): Pedro is at 14 days with first meeting blank, equal to the p75 of 14, and Luca is at 38 days with first opp blank, equal to the p75 of 38. Neither exceeds p75, so neither is flagged. Both are worth a glance next week.
+Maya Hayes (REP-3027): Her DATA_ORDER row should be corrected before her timing is used for anything else.
+
+5. Counts
+BEHIND_PACE: 7
+LOW_CONVERSION: 4
+AHEAD_OF_PACE: 3
+DATA_ORDER: 2
+Total flagged rows: 16, covering 15 distinct reps (Carlos Rasmussen has two rows).
+Total reviewed reps: 45

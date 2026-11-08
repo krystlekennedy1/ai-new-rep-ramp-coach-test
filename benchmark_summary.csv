@@ -1,0 +1,11 @@
+segment,metric,p25,median,p75
+SMB,days_to_first_call,3,5,7
+SMB,days_to_first_meeting,9,12,14
+SMB,days_to_first_opp,18,21,24
+SMB,days_to_first_close,35,43,48
+SMB,meeting_rate_meetings_per_call,,0.2,
+Commercial,days_to_first_call,5,7,8
+Commercial,days_to_first_meeting,15,17,20
+Commercial,days_to_first_opp,30,34,38
+Commercial,days_to_first_close,68,80,91
+Commercial,meeting_rate_meetings_per_call,,0.29,

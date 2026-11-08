@@ -1,0 +1,34 @@
+PROMPT A, RUN 1 (copied from chat)
+
+With the official benchmark (p75 cutoffs and the 20% SMB / 29% Commercial meeting rates), the list holds up, with some reshuffling. Slow starts matter less than I first suggested, and Xenia Whitaker needs a manual flag since my rule skipped her.
+
+Coach first
+Opal Fischer | Commercial / Helen Brooks | 41 days | No calls, meetings or opp (p75 for first call is day 8). Check onboarding or data feeds before treating it as a performance issue.
+Carlos Rasmussen | SMB / Dana Whitfield | 51 days | First opp 27 days past p75, first close past p75 (day 48), and 6% meeting rate against 20%.
+Xenia Whitaker | Commercial / Omar Castillo | 81 days | Milestones look fine, but only 90 calls (1.1 a day) and 3 meetings (3% against 29%). The milestone dates don't square with 3 meetings, so verify the data too.
+Yusuf Gallagher | Commercial / Omar Castillo | 71 days | 10% meeting rate against 29%, no close yet (p75 is day 91, so he still has time).
+Xenia Hayes | SMB / Victor Lang | 61 days | 10% meeting rate against 20%, despite closing by day 36.
+Keiko Everett | SMB / Omar Castillo | 61 days | 7% meeting rate against 20%, closed day 38.
+Xenia Everett | SMB / Helen Brooks | 56 days | 7% meeting rate against 20%, closed day 38.
+Rosa Tran | Commercial / Omar Castillo | 100 days | No close at day 100 (p75 is 91), despite 221 meetings. This looks like a deal-progression and closing issue, not an activity one.
+Xenia Hayes, Keiko Everett and Xenia Everett closed on time despite low meeting rates, so their issue is pipeline sustainability, not ramp.
+
+Past the first-meeting window with zero meetings
+All four SMB reps have 112 to 240 calls and no meetings. The coaching here is on turning calls into booked meetings.
+Luca Gallagher (Commercial, day 27, p75 is 20)
+Uri Jacobs (SMB, day 21, p75 is 14)
+Xenia Vasquez (SMB, day 20)
+Pedro Jacobs (SMB, day 15, just past)
+Opal Bennett (Commercial, day 25, 96 calls, 0 meetings) belongs in this group too.
+
+Slow starts that have recovered (no coaching needed)
+Gia Fischer, Hector Everett, Farid Fischer, Tessa Hayes and Farid Santos all missed the first-call or first-meeting window. Every one of them has since caught up and closed on or ahead of p25 pace. The one exception is Farid Santos, who closed at day 71, still within the Commercial range. Gia Fischer's first call on day 37 is worth a quick question about what held up her start.
+
+Early checks and data issues
+Not started, past the first-call window: Dani Vasquez (day 15), Farid Hayes (day 14), Tessa Santos (day 11). Confirm onboarding and system access.
+Borderline: Luca Iverson (opp 1 day past p75) and Yusuf Okafor (opp 6 days past p75). Both have healthy meeting volume, so I'd just watch them.
+Maya Hayes: the first close (day 77) comes before the first opp (day 82), so one of those fields is wrong.
+Pedro Morales: no segment is listed. I benchmarked him as SMB and he comes out clean, but the segment needs filling in.
+Manager pattern: Omar Castillo has three of the eight priority reps (Whitaker, Gallagher, Everett) plus Rosa Tran. A manager-level pipeline inspection may help more than rep-by-rep coaching.
+Twenty-two reps are fully on benchmark, including Opal Gallagher, Zara Okafor, Bianca Dalton and Maya Rasmussen. They could serve as peer examples for the SMB meeting-booking gap.
+I can turn this into a per-manager coaching sheet if that would help.

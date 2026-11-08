@@ -1,0 +1,29 @@
+rep_id,rule,expected_action,note
+REP-3001,BEHIND_PACE,FLAG,"Exactly 14 days in seat, boundary case that is assessed. Behind on: first call"
+REP-3003,AHEAD_OF_PACE,FLAG,First close earlier than p25
+REP-3004,AHEAD_OF_PACE,FLAG,"First close exactly at p25, boundary case that counts as ahead"
+REP-3005,BEHIND_PACE,DO_NOT_FLAG,"Only 10 days in seat, under the 14 day minimum, too early to assess"
+REP-3006,BEHIND_PACE,DO_NOT_FLAG,"Reached first call late but every milestone is now achieved, nothing outstanding past p75"
+REP-3007,BEHIND_PACE,FLAG,Behind on: first meeting
+REP-3010,BEHIND_PACE,FLAG,Behind on: first opp
+REP-3012,BEHIND_PACE,DO_NOT_FLAG,"Days in seat equals the p75 for first meeting exactly, rule needs more than p75"
+REP-3013,DATA_ORDER,FLAG,First meeting day is earlier than first call day
+REP-3014,BEHIND_PACE,FLAG,"Multi-issue rep. Behind on: first opp, first close"
+REP-3014,LOW_CONVERSION,FLAG,Multi-issue rep. Low meeting rate on 180 calls
+REP-3016,BEHIND_PACE,NEEDS_HUMAN_LOOK,"Meets the behind-pace rule but territory tier is C, route to a human. Behind on: first meeting"
+REP-3017,LOW_CONVERSION,DO_NOT_FLAG,"Only 90 calls, under the 100 call minimum for this rule"
+REP-3018,BEHIND_PACE,DO_NOT_FLAG,"Days in seat equals the p75 for first opp exactly, rule needs more than p75"
+REP-3020,LOW_CONVERSION,FLAG,"15 meetings on 220 calls, well under half of the benchmark rate"
+REP-3022,BEHIND_PACE,NEEDS_HUMAN_LOOK,"Meets the behind-pace rule but territory tier is C, route to a human. Behind on: first meeting"
+REP-3023,BENCHMARK_SEGMENT,NEEDS_HUMAN_LOOK,"Segment is blank, cannot choose a benchmark"
+REP-3024,BEHIND_PACE,FLAG,Behind on: first close
+REP-3027,DATA_ORDER,FLAG,First opp day is later than first close day
+REP-3028,LOW_CONVERSION,FLAG,"16 meetings on 160 calls, well under half of the benchmark rate"
+REP-3029,BEHIND_PACE,DO_NOT_FLAG,"Only 13 days in seat, under the 14 day minimum, too early to assess"
+REP-3033,BEHIND_PACE,DO_NOT_FLAG,"Reached first call late but every milestone is now achieved, nothing outstanding past p75"
+REP-3034,BEHIND_PACE,FLAG,Behind on: first meeting
+REP-3035,LOW_CONVERSION,DO_NOT_FLAG,"Meeting rate is exactly half the benchmark, rule needs less than half"
+REP-3036,AHEAD_OF_PACE,FLAG,First close earlier than p25
+REP-3037,BEHIND_PACE,FLAG,"Behind on: first call, first meeting, first opp"
+REP-3041,AHEAD_OF_PACE,DO_NOT_FLAG,"First close is one day slower than p25, not ahead"
+REP-3043,LOW_CONVERSION,FLAG,"18 meetings on 260 calls, well under half of the benchmark rate"

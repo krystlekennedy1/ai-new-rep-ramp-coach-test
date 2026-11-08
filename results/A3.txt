@@ -1,0 +1,36 @@
+PROMPT A, RUN 3 (copied from chat)
+
+Of the 45 reps, 15 need coaching or a check-in, and 4 more have data problems to fix first. I measured each rep against the benchmark for their segment, using tenure as of today. A rep was flagged if a milestone landed past the p75 benchmark, or if they hadn't reached a milestone and were already past p75. I also flagged meeting rates well below the segment median (0.20 SMB, 0.29 Commercial).
+
+Coach first (stalled at the top of the funnel)
+Opal Fischer | Comm / Brooks | 41 days | Zero calls. Likely an access or attendance issue, so check this first.
+Carlos Rasmussen | SMB / Whitfield | 51 days | 180 calls, 10 meetings (0.06), no opp or close. Both volume and conversion are weak.
+Uri Jacobs | SMB / Whitfield | 21 days | 240 calls, zero meetings.
+Xenia Vasquez | SMB / Castillo | 20 days | 171 calls, zero meetings.
+Luca Gallagher | Comm / Whitfield | 27 days | 130 calls, zero meetings (p75 is 20 days).
+Opal Bennett | Comm / Whitfield | 25 days | 96 calls, zero meetings. Low volume plus no conversion.
+Xenia Whitaker | Comm / Castillo | 81 days | Only 90 calls and 3 meetings, with a close window ending near day 91. My rate screen missed her because she is under 100 calls.
+Pedro Jacobs | SMB / Brooks | 15 days | 112 calls, no meetings, one day past p75. Early, so coach rather than escalate.
+
+Coach second (progressing but behind)
+Yusuf Okafor (SMB, Lang): Day 30 with no opp, against a p75 of 24. His 0.19 meeting rate is fine, so the gap is meeting to opp.
+Rosa Tran (Comm, Castillo): Day 100 with no close against a p75 of 91, though she hit meeting and opp on time with strong volume. Do a deal review.
+Yusuf Gallagher (Comm, Castillo): 160 calls is low, and his 0.10 meeting rate compares to 0.29. He has 71 days against a close p75 of 91, so there is still time.
+Keiko Everett, Xenia Everett, Xenia Hayes (SMB): Each converts only 7 to 10% of calls to meetings, with call volume of 200 to 260. They all closed on time, so this is conversion and volume coaching, not a performance issue.
+
+Early warning (too new to judge, but no first call yet)
+Dani Vasquez (15 days), Farid Hayes (14), and Tessa Santos (11) have no calls logged. Check that they are set up with access, territory, and a call list.
+
+Slow start, then fine (likely onboarding, not skill)
+Gia Fischer took 37 days to a first call, yet closed at day 63, ahead of the Commercial p25.
+Hector Everett and Farid Fischer (SMB) and Farid Santos (Comm) also started late and then ran at or ahead of pace.
+Luca Iverson is one day past p75 for first opp, so just watch him.
+
+Data to fix before you trust the numbers
+Maya Hayes: First opp is day 82 but first close is day 77, which is impossible.
+Alex Dalton: First meeting is day 5, before his first call on day 7.
+Pedro Morales: No segment, so I couldn't benchmark him. His pace looks healthy either way.
+Gia Fischer: The 37-day delay may be a logging lag rather than a real one.
+
+Patterns for managers: Dana Whitfield has four of the eight top-priority reps, all with zero or near-zero meetings. That points to a shared issue, such as lead quality or call quality, rather than four individual problems. Omar Castillo has three more, plus Farid Hayes to watch.
+I can turn this into a one-page coaching brief per manager if that would help.

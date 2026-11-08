@@ -1,0 +1,45 @@
+PROMPT B, RUN 3 (copied from chat)
+
+Ramp coaching brief, as of November 7, 2026
+
+Headline
+Five reps are stalled at the earliest stages, with no first call, first meeting or first opp past the segment's p75, and the 40-day-in-seat case with no first call needs a look first. Four reps with 160 or more calls are converting calls to meetings at under half the benchmark rate.
+
+Top 3 actions
+Helen Brooks, Opal Fischer (REP-3037): There are 0 calls at 40 days in seat. First confirm accounts are assigned and activity is being logged, then set a first-week call block with a manager ride-along. Check in with Dani Vasquez (REP-3001) the same way, since she has no first call at 14 days.
+Dana Whitfield, Carlos Rasmussen (REP-3014): He has 10 meetings from 180 calls, and first opp and first close are both past p75. Review a few recorded calls together and practice the meeting ask and discovery.
+Omar Castillo, Keiko Everett (REP-3020) and Yusuf Gallagher (REP-3028): Both have solid call volume but low meeting conversion. Pair each with a strong peer for call shadowing and a script and objection review.
+
+Flagged reps
+REP-3001 | Dani Vasquez | Helen Brooks | SMB | BEHIND_PACE | First call blank; 14 days in seat, p75 7
+REP-3007 | Uri Jacobs | Dana Whitfield | SMB | BEHIND_PACE | First meeting blank; 20 days, p75 14
+REP-3010 | Yusuf Okafor | Victor Lang | SMB | BEHIND_PACE | First opp blank; 29 days, p75 24
+REP-3014 | Carlos Rasmussen | Dana Whitfield | SMB | BEHIND_PACE | First opp blank; 50 days, p75 24. First close blank; 50 days, p75 48
+REP-3024 | Rosa Tran | Omar Castillo | Commercial | BEHIND_PACE | First close blank; 99 days, p75 91
+REP-3034 | Opal Bennett | Dana Whitfield | Commercial | BEHIND_PACE | First meeting blank; 24 days, p75 20
+REP-3037 | Opal Fischer | Helen Brooks | Commercial | BEHIND_PACE | 40 days. First call blank (p75 8), first meeting blank (p75 20), first opp blank (p75 38)
+REP-3014 | Carlos Rasmussen | Dana Whitfield | SMB | LOW_CONVERSION | 10 meetings / 180 calls = 0.056; half of 0.20 benchmark is 0.10; 50 days
+REP-3020 | Keiko Everett | Omar Castillo | SMB | LOW_CONVERSION | 15 / 220 = 0.068 vs 0.10; 60 days
+REP-3043 | Xenia Everett | Helen Brooks | SMB | LOW_CONVERSION | 18 / 260 = 0.069 vs 0.10; 55 days
+REP-3028 | Yusuf Gallagher | Omar Castillo | Commercial | LOW_CONVERSION | 16 / 160 = 0.100; half of 0.29 benchmark is 0.145; 70 days
+REP-3003 | Opal Gallagher | Dana Whitfield | SMB | AHEAD_OF_PACE | First close at day 31, p25 35. Great work, worth recognizing
+REP-3004 | Hector Everett | Helen Brooks | SMB | AHEAD_OF_PACE | First close at day 35, p25 35. Worth recognizing
+REP-3036 | Gia Fischer | Victor Lang | Commercial | AHEAD_OF_PACE | First close at day 63, p25 68. Worth recognizing
+REP-3013 | Alex Dalton | Helen Brooks | SMB | DATA_ORDER | First meeting day 5 is before first call day 7
+REP-3027 | Maya Hayes | Omar Castillo | Commercial | DATA_ORDER | First close day 77 is before first opp day 82
+
+Needs a human look
+REP-3016 Xenia Vasquez (Omar Castillo, SMB, tier C): First meeting blank at 19 days, p75 14. Not flagged because territory tier C may explain the gap.
+REP-3022 Luca Gallagher (Dana Whitfield, Commercial, tier C): First meeting blank at 26 days, p75 20. Not flagged for the same tier C reason.
+REP-3023 Pedro Morales (Omar Castillo): Segment is blank, so no benchmark can be chosen. He has 40 days in seat, 360 calls and 65 meetings.
+REP-3017 Xenia Whitaker (Omar Castillo, Commercial): 3 meetings from 90 calls at 80 days in seat. She is under the 100-call minimum for LOW_CONVERSION, so she is not flagged, but it may be worth a conversation.
+
+Counts
+BEHIND_PACE: 7
+LOW_CONVERSION: 4
+AHEAD_OF_PACE: 3
+DATA_ORDER: 2
+Total flagged rows: 16, covering 15 reps
+Needs a human look: 4
+Too early to assess (under 14 days): 2 (REP-3005, REP-3029)
+Total reviewed reps: 45

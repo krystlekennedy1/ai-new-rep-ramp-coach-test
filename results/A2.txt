@@ -1,0 +1,35 @@
+PROMPT A, RUN 2 (copied from chat)
+
+I flagged 23 of the 45 reps. 21 are on or ahead of benchmark, and 1 can't be benchmarked because the segment is blank (Pedro Morales). I measured each rep against their segment's p75 for days to first call, meeting, opp and close, and treated "not reached yet" as a flag once tenure passed p75. For meeting rate, I flagged anyone under 60% of the segment median with at least 100 calls. Those cutoffs are my judgment, since the benchmark file only has a median for meeting rate.
+
+Coach first
+Opal Fischer | Commercial / Helen Brooks | 41 days in seat, zero calls. Check status first (onboarding, leave, access) before treating it as a performance issue.
+Carlos Rasmussen | SMB / Dana Whitfield | 180 calls, 10 meetings (5.6% vs 20%). No opp at day 51 (p75 24).
+Gia Fischer | Commercial / Victor Lang | First call at day 37 (p75 8), but then closed at day 63, faster than the 80-day median. This is an activation problem, not a skill problem.
+Farid Fischer | SMB / Dana Whitfield | Late on call (16d), meeting (22d) and opp (26d), but closed at day 36.
+Hector Everett | SMB / Helen Brooks | Late on call (14d), meeting (20d) and opp (28d), but closed at day 35.
+
+Calls without meetings (new hires past the p75 meeting window)
+Uri Jacobs has 240 calls and 0 meetings at day 21, the starkest case.
+Xenia Vasquez has 171 calls and 0 meetings at day 20.
+Luca Gallagher has 130 calls and 0 meetings at day 27.
+Pedro Jacobs has 112 calls and 0 meetings at day 15, which is borderline.
+
+Not calling yet (past the p75 first-call day)
+Dani Vasquez (day 15), Farid Hayes (day 14) and Tessa Santos (day 11) have no calls logged. This is likely onboarding, but worth confirming this week.
+
+Low meeting rate, but still closing
+Keiko Everett (6.8%), Xenia Everett (6.9%), Xenia Hayes (10%) and Yusuf Gallagher (10%, no close yet) are converting calls to meetings poorly. Xenia Whitaker (Commercial) also looks off: only 90 calls and 3 meetings in 81 days. That is a volume problem as much as a conversion problem.
+
+Stalled pipeline
+Rosa Tran has strong activity (693 calls, 32% meeting rate) but no close at day 100 (p75 91). Coach on closing.
+Luca Iverson (day 39) and Yusuf Okafor (day 30) are just past the p75 for first opp.
+Maya Hayes took 82 days to first opp (p75 38), though the data issue below affects her record.
+
+Data issues to fix before using this in a review
+Pedro Morales has no segment. His timings (call at 7, meeting at 10, opp at 20) look SMB-like.
+Alex Dalton shows a first meeting at day 5, before his first call at day 7.
+Maya Hayes shows a close at day 77, before her first opp at day 82.
+
+By manager, Dana Whitfield has 7 of 10 reps flagged, mostly newer hires. The others are Helen Brooks 6 of 14, Omar Castillo 6 of 13 and Victor Lang 4 of 8.
+I can turn this into a spreadsheet with per-metric status for every rep if that would help.

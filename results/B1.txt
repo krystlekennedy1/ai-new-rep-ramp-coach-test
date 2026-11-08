@@ -1,0 +1,47 @@
+PROMPT B, RUN 1 (copied from chat)
+
+Weekly Ramp Coaching Brief (as of Nov 7, 2026)
+
+1. Headline
+Most new reps are tracking well, and three have closed at or ahead of the SMB or Commercial first close p25. The biggest need this week is early activity: Opal Fischer (40 days, no calls logged) and Dani Vasquez (14 days, no first call) need outreach started now.
+
+2. Top 3 actions
+Helen Brooks, Opal Fischer: Sit in on her next working session this week and book a first block of live calls. She has 0 calls at 40 days in seat. Also confirm Dani Vasquez has her first-call date on the calendar.
+Dana Whitfield, Carlos Rasmussen: Review his last 10 meetings and set an opp-creation target. He has 180 calls and 10 meetings, with no opp at 50 days. Pair a call review with an agenda and next-step script for the meetings he does book.
+Omar Castillo, Keiko Everett: Run a call-listening session on opening and meeting ask. She has 15 meetings from 220 calls (0.068 vs 0.10 threshold). Use the same format with Yusuf Gallagher.
+
+3. Flagged reps
+REP-3001 | Dani Vasquez | Helen Brooks | SMB | BEHIND_PACE | First call blank; 14 days in seat vs p75 of 7
+REP-3007 | Uri Jacobs | Dana Whitfield | SMB | BEHIND_PACE | First meeting blank; 20 days vs p75 of 14
+REP-3010 | Yusuf Okafor | Victor Lang | SMB | BEHIND_PACE | First opp blank; 29 days vs p75 of 24
+REP-3014 | Carlos Rasmussen | Dana Whitfield | SMB | BEHIND_PACE | First opp blank (50 days vs p75 of 24); first close blank (50 days vs p75 of 48)
+REP-3024 | Rosa Tran | Omar Castillo | Commercial | BEHIND_PACE | First close blank; 99 days vs p75 of 91
+REP-3034 | Opal Bennett | Dana Whitfield | Commercial | BEHIND_PACE | First meeting blank; 24 days vs p75 of 20
+REP-3037 | Opal Fischer | Helen Brooks | Commercial | BEHIND_PACE | First call blank (40 vs p75 of 8); first meeting blank (40 vs 20); first opp blank (40 vs 38)
+REP-3014 | Carlos Rasmussen | Dana Whitfield | SMB | LOW_CONVERSION | 10 meetings / 180 calls = 0.056 vs half of 0.20 = 0.10; 50 days
+REP-3020 | Keiko Everett | Omar Castillo | SMB | LOW_CONVERSION | 15 / 220 = 0.068 vs 0.10; 60 days
+REP-3028 | Yusuf Gallagher | Omar Castillo | Commercial | LOW_CONVERSION | 16 / 160 = 0.100 vs half of 0.29 = 0.145; 70 days
+REP-3043 | Xenia Everett | Helen Brooks | SMB | LOW_CONVERSION | 18 / 260 = 0.069 vs 0.10; 55 days
+REP-3003 | Opal Gallagher | Dana Whitfield | SMB | AHEAD_OF_PACE | First close day 31 vs p25 of 35. Great work
+REP-3004 | Hector Everett | Helen Brooks | SMB | AHEAD_OF_PACE | First close day 35, equal to p25 of 35
+REP-3036 | Gia Fischer | Victor Lang | Commercial | AHEAD_OF_PACE | First close day 63 vs p25 of 68
+REP-3013 | Alex Dalton | Helen Brooks | SMB | DATA_ORDER | First meeting day 5 is earlier than first call day 7
+REP-3027 | Maya Hayes | Omar Castillo | Commercial | DATA_ORDER | First close day 77 is earlier than first opp day 82
+
+4. Needs a human look
+REP-3016 Xenia Vasquez (Omar Castillo, SMB, tier C): First meeting blank at 19 days vs p75 of 14. Tier C, so territory may explain the gap.
+REP-3022 Luca Gallagher (Dana Whitfield, Commercial, tier C): First meeting blank at 26 days vs p75 of 20. Tier C, so territory may explain the gap.
+REP-3023 Pedro Morales (Omar Castillo): Segment is blank, so no benchmark can be chosen. 40 days in seat, 360 calls, 65 meetings.
+REP-3012 Pedro Jacobs (Helen Brooks, SMB): First meeting blank at 14 days, equal to p75 of 14, not above it. Rule not met, but worth a check next week.
+REP-3018 Luca Iverson (Dana Whitfield, Commercial): First opp blank at 38 days, equal to p75 of 38. Rule not met, but worth a check next week.
+REP-3035 Xenia Hayes (Victor Lang, SMB): 20 / 200 = 0.10, exactly half of the 0.20 benchmark, not below it. Rule not met.
+REP-3036 Gia Fischer: Flagged as ahead on first close, but first call took 37 days. Worth confirming the dates are correct.
+
+5. Counts
+BEHIND_PACE: 7
+LOW_CONVERSION: 4
+AHEAD_OF_PACE: 3
+DATA_ORDER: 2
+Total flagged rows: 16
+Total reviewed reps: 45
+Two reps are under 14 days in seat and too early to assess: Tessa Santos (10 days) and Farid Hayes (13 days). Today's date is taken as Nov 7, 2026, per your instructions.

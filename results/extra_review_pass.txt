@@ -1,0 +1,25 @@
+EXTRA: A REVIEWER CHECKING A PROMPT B BRIEF (copied from chat). Not one of the six scored runs.
+
+This was a second pass that checked a Prompt B brief against the two CSVs. It had the data but not the rules.
+
+I checked the brief against both CSVs, using Nov 7, 2026 as the as-of date. It holds up almost everywhere, with one likely miss and a few things to tidy.
+
+What checks out
+Days in seat, the p75 comparisons and the meeting-per-call math match the data for all 16 flagged rows.
+The counts (7, 4, 3, 2) add up to 16, and the 45 reps reviewed matches the file.
+Tessa Santos (10 days) and Farid Hayes (13 days) are correctly set aside as too new.
+The three equal-to-threshold calls (Pedro Jacobs, Luca Iverson, Xenia Hayes) are correctly not flagged.
+
+Likely miss
+Xenia Whitaker (REP-3017, Commercial, Omar Castillo) has 3 meetings from 90 calls at 80 days in seat. That is a 0.033 rate against the 0.145 Commercial threshold, lower than anyone you flagged. If your rule has a minimum call count (for example 100), that would explain it, but then she belongs in "Needs a human look" with that reason. Otherwise she should be a fifth LOW_CONVERSION row, and Omar's action 3 should cover her too.
+
+Smaller things to fix
+Top 3 action headers: "Helen Brooks, Opal Fischer" reads like two names for one person. Relabel them "Manager: Helen Brooks | Rep: Opal Fischer", or lead with the rep.
+Action 1: it covers two reps (Opal Fischer and Dani Vasquez) but uses "her" as if it were one.
+Maya Hayes (REP-3027): her first opp is at day 82, well past the Commercial p75 of 38, but her first close is at day 77. Add that she is probably a bad opp date, not a late opp.
+Gia Fischer (REP-3036): she appears under both AHEAD_OF_PACE and "Needs a human look." Her first call at day 37 and first opp at day 51 are both far over p75, so the day-63 close looks like a data problem. I would pull her from the "ahead" shout-out in the headline, which currently says three reps are ahead.
+Hector Everett: his first call took 14 days (SMB p75 is 7). He is not flagged for it because the rule only looks at blanks, but it is worth a line if you want pace on already-hit milestones.
+
+If you want, I can regenerate the brief with these fixes, including Xenia Whitaker. Tell me whether your conversion rule has a minimum call count.
+
+[Scoring note: the reviewer's main "miss" is a false flag. The rule requires at least 100 calls, so Xenia Whitaker is correctly not flagged. The reviewer did not have the rules.]
